@@ -42,10 +42,11 @@ In this project, I have worked on processing and summarizing a dataset provided 
 
 2. **Run the Python Script**  
    To clean the dataset, extract relevant rows, and generate summaries, run the Python script by executing the following command in your terminal:
-
+   Replace your_script_name.py with the actual name of the Python script you are using for this task.
    ```bash
    python your_script_name.py
-   Replace your_script_name.py with the actual name of the Python script you are using for this task.
    
+
 This repository showcases the work I have done as part of the assignment for Predii.
+
 Thank you for reviewing my submission!
