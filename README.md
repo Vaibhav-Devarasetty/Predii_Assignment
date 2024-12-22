@@ -21,7 +21,7 @@ In this project, I have worked on processing and summarizing a dataset provided 
   - **OpenAI Embeddings**
   - **Sentence Transformers**
   
-- Using the above vector embedding models, i have calculated similarity scores which let me know the most relevant rows in the dataset for the query issue
+- For all the above vector embedding models, i have calculated similarity scores which let me know the most relevant rows in the dataset for the query issue.
 
 ### 3. Summarization
 - For summarizing the relevant rows, I used two different models:
@@ -31,22 +31,6 @@ In this project, I have worked on processing and summarizing a dataset provided 
   Both models were utilized for generating concise summaries of the filtered rows.
 
 ### 4. Hardware and Computation
-- I used my **MacBook Pro (M1 Pro)** for computation, utilizing the **MPS (Metal Performance Shader)** backend to run the models efficiently.
-
----
-
-## Instructions to Run
-
-1. **Ensure the Dataset is Available**  
-   Make sure the dataset file `FLAT_RCL.txt` is available in the `dataset` directory. This file is used for data cleaning and filtering.
-
-2. **Run the Python Script**  
-   To clean the dataset, extract relevant rows, and generate summaries, run the Python script by executing the following command in your terminal:
-   Replace your_script_name.py with the actual name of the Python script you are using for this task.
-   ```bash
-   python your_script_name.py
-   
-
-This repository showcases the work I have done as part of the assignment for Predii.
+- I used my **MacBook Pro (M1 Pro)** for computation, utilizing the **MPS (Metal Performance Shader)** to run the models efficiently.
 
 Thank you for reviewing my submission!
