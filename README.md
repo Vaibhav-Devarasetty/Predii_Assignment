@@ -21,7 +21,7 @@ In this project, I have worked on processing and summarizing a dataset provided 
   - **OpenAI Embeddings**
   - **Sentence Transformers**
   
-- After extracting the relevant rows based on these embeddings, I applied **RAG** (Retriever-Augmented Generation) to retrieve the most relevant documents.
+- Using the above vector embedding models, i have calculated similarity scores which let me know the most relevant rows in the dataset for the query issue
 
 ### 3. Summarization
 - For summarizing the relevant rows, I used two different models:
